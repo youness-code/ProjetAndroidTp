@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">neighbors</string>
+
+    <string name="person_icon">Person Icon</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_avatar">Avatar URL</string>
+    <string name="hint_phone">Phone number</string>
+    <string name="hint_website">Website</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_about">About</string>
+    <string name="hint_favorite">Favorite</string>
+    <string name="hint_save">Save</string>
+
+    <string name="add_neighbor">New neighbor</string>
+    <string name="list_neighbor">Neighbors list</string>
+</resources>
